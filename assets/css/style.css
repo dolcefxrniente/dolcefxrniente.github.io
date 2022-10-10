@@ -1,0 +1,12 @@
+*{
+    background-color: black;
+}
+.font-silk{
+    font-family: 'Silkscreen', cursive; 
+}
+
+.dashed{
+    border-style: dashed ;
+    color: white;
+}
+
