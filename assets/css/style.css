@@ -4,9 +4,15 @@
 .font-silk{
     font-family: 'Silkscreen', cursive; 
 }
-
+.font-Gemunu{
+    font-family: 'Gemunu Libre', sans-serif;
+}
 .dashed{
     border-style: dashed ;
     color: white;
 }
 
+.dotted{
+    border-style: dotted;
+    color: white;
+}
